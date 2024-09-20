@@ -22,3 +22,5 @@ while not game.over:
         if e.type == TIMESPEED:
             game.speedup()
     game.update()
+
+q
